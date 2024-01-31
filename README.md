@@ -1,4 +1,4 @@
-# University Courses
+# Attended Lectures
 
 ## Fall Semester 2021
 - Discrete Mathematics [252-0025-01L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=147043&semkez=2021W&lang=en)
@@ -43,7 +43,7 @@ Exchange semester at [Northwestern University](https://www.northwestern.edu) in 
 - Intro to Bayesian Statistics [STAT 357](https://class-descriptions.northwestern.edu/4920/WCAS/STAT/16932)
 
 Courses I took remotely at ETH while on exchange
-- Computer Systems [252-0217-00L]([252-0217-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173502&semkez=2023W&lang=en))
+- Computer Systems [252-0217-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173502&semkez=2023W&lang=en)
 - Visual Computing [252-0206-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=172227&semkez=2023W&lang=en)
 - Introduction to Microeconomics [351-1109-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173199&semkez=2023W&lang=en)
 - Principles of Macroeconomics [363-0565-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=172305&semkez=2023W&lang=en)
