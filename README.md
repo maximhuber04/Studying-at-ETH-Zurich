@@ -48,7 +48,7 @@ Courses at ETH I took while on exchange (remotely)
 - Introduction to Microeconomics [351-1109-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173199&semkez=2023W&lang=en)
 - Principles of Macroeconomics [363-0565-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=172305&semkez=2023W&lang=en)
 
-## Spring Semester 2023
+## Spring Semester 2024
 
 - Bachelor Thesis at [DISCO Lab](https://disco.ethz.ch) under supervision of Prof. Dr. [Roger Wattenhofer](https://disco.ethz.ch/members/wroger)
 - Rigorous Software Engineering [252-0216-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=177126&semkez=2024S&lang=en)
