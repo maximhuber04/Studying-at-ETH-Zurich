@@ -1,7 +1,15 @@
 # Attended Lectures
 
 ## Fall Semester 2021
-- Discrete Mathematics [252-0025-01L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=147043&semkez=2021W&lang=en)
+<details>
+<summary>
+Discrete Mathematics <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=147043&semkez=2021W&lang=en">[252-0025-01L]</a>
+</summary>
+<p>
+Mathematical reasoning and proofs, abstraction. Sets, relations (e.g. equivalence and order relations), functions, (un-)countability, number theory, algebra (groups, rings, fields, polynomials, subalgebras, morphisms), logic (propositional and predicate logic, proof calculi).
+</p>
+</details>
+
 - Algorithms and Datastructures [252-0026-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=146603&semkez=2021W&lang=en)
 - Introduction to Programming [252-0027-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=148279&semkez=2021W&lang=en)
 - Linear Algebra [401-0131-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=148509&semkez=2021W&lang=en)
