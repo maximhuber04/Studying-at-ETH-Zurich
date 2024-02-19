@@ -346,7 +346,8 @@ The purpose of this course is to provide an elementary introduction to a variety
 </details>
 
 <br>
-Courses I took at ETH while on exchange (remotely).
+
+Courses I took at ETH while on exchange (remotely):
 <details>
 <summary>
 Computer Systems <a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173502&semkez=2023W&lang=en">252-0217-00L</a>
